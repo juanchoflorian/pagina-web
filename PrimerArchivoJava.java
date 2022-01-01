@@ -7,8 +7,7 @@ public class PrimerArchivoJava{
 	
 	
 	public static void main(String [] args) {
-		//coleccion de datos juancho
-
+		//coleccion de datos juan
 		Scanner Recolecciondatos= new Scanner(System.in);
 		
 		String coleccionconsulta[]= {"huy","xywz","hola","abc","prueba"};
